@@ -1,5 +1,4 @@
 hola me llamo agustin y estoy completando un txt
-<<<<<<< HEAD
 
 agustin: tirando esto que seguro va a tener conflictos
 
