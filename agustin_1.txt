@@ -1,6 +1,15 @@
 hola me llamo agustin y estoy completando un txt
+<<<<<<< HEAD
 
 agustin: tirando esto que seguro va a tener conflictos
 
 soy mari y estoy generando conflictos
 
+
+
+estoy generando conflictos
+
+
+hola soy brian y estoy rompiendo todo :)
+
+soy mari y estoy generando conflictos
